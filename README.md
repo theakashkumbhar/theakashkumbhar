@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash kumbhar</h1>
 <h3 align="center">💻 Crafting code, solving problems, and building things that live on the internet.</h3>
-
-- 🌱 Currently learning Data Structures & Algorithms, competitive programming, and backend development. **Python for machine learning,Flask ,solving leetcode problems**
+  Btech AI&DS
+-  Currently learning Data Structures & Algorithms, competitive programming, and backend development. **Python for machine learning,Flask ,solving leetcode problems**
 
 - 📫 How to reach me **aksworld5102005@gmail.com**
 
@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/akash-kumbhar-a6400331b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akash-kumbhar-a6400331b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/skyxdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skyxdev" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/416413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="416413" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
